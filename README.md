@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm N Shrivardhan</h1>
+<h1 align="center">Hi! I'm N Shrivardhan. :) </h1>
 <h3 align="center">Detail-oriented and curious Data Analyst with proven experience in data manipulation, analysis, and visualization. Skilled in MySQL, Power BI and Python. Excels in collaborating with cross-functional teams to gather, analyze, and interpret data.</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/cartoon-character-2d-3oKIPEqDGUULpEU0aQ" />
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/74pZ.gif" />
 [![MasterHead](https://www.behance.net/gallery/62225981/IBM-Financial-data-analytics)](https://github.com/ShriNVardhan)
 
 
-- 🔭 I’m seeking **new opportunities to apply expertise in Power BI, MySQL, and Python. With a keen eye for detail and a commitment to delivering actionable insights, I aspire to contribute valuable analytical skills to dynamic projects, fostering data-driven decision-making**
+- 🔭 I’m seeking new opportunities to apply expertise in Power BI, MySQL, and Python. With a keen eye for detail and a commitment to delivering actionable insights, I aspire to contribute valuable analytical skills to dynamic projects, fostering data-driven decision-making.
 
 - 👨‍💻 Check out my portfolio website [https://happy-spinach-bfaec.stackbit.app/](https://happy-spinach-bfaec.stackbit.app/)
 
-- 💬 Ask me about **Python, MYSQL and Power BI**
+- 💬 Ask me about: Python, MYSQL and Power BI
 
-- 📫 How to reach me **n.shri217@gmail.com**
+- 📫 How to reach me: n.shri217@gmail.com
 
 - 📄 Know about my background! Here's my resume. [https://drive.google.com/file/d/11ip4fizc5IdwHTOjGxtRQ7orip6d9wXx/view?usp=sharing](https://drive.google.com/file/d/11ip4fizc5IdwHTOjGxtRQ7orip6d9wXx/view?usp=sharing)
 
