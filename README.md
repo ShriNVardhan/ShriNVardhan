@@ -1,7 +1,8 @@
 <h1 align="center">Hi! I'm N Shrivardhan. :) </h1>
 <h3 align="center">Detail-oriented and curious Data Analyst with proven experience in data manipulation, analysis, and visualization. Skilled in MySQL, Power BI and Python. Excels in collaborating with cross-functional teams to gather, analyze, and interpret data.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/74pZ.gif" />
-[![MasterHead](https://www.behance.net/gallery/62225981/IBM-Financial-data-analytics)](https://github.com/ShriNVardhan)
+
+
 
 
 - 🔭 I’m seeking new opportunities to apply expertise in Power BI, MySQL, and Python. With a keen eye for detail and a commitment to delivering actionable insights, I aspire to contribute valuable analytical skills to dynamic projects, fostering data-driven decision-making.
